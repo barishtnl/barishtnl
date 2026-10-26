@@ -55,7 +55,6 @@
 ### 📌 Featured Projects & Interests
 
 - ⚡ **[FlutX](https://github.com/barishtnl/flutx):** VS Code extension for smart Dart and Flutter code analysis and explanation. *(TypeScript, VS Code API)*
-- 📚 **[Nerede Kaldık](https://github.com/barishtnl/nerede-kaldik):** Practical webtoon chapter tracking web app powered by structured JSON catalogs. *(JavaScript, HTML/CSS)*
 - 🖨️ **3D Printing & Fabrication:** Model optimization, slicing workflows with Bambu Studio, and functional part production on Bambu Lab 3D printers.
 
 ---
