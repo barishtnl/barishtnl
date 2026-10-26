@@ -64,13 +64,9 @@
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/barishtnl">
+  <a href="https://linkedin.com/in/recepbarishtnl">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white&labelColor=161B22" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:barishtnl@example.com">
-    <img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=gmail&logoColor=FFB703&labelColor=161B22" alt="Email" />
-  </a>
+  </a>  
   &nbsp;
   <a href="https://github.com/barishtnl">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="GitHub" />
