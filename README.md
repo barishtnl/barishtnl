@@ -11,7 +11,6 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=barishtnl&label=PROFILE+VIEWS&color=0891B2&style=flat-square&labelColor=161B22" alt="Profile Views" />
     <img src="https://img.shields.io/badge/FOCUS-SOFTWARE_%26_3D_PRINTING-0891B2?style=flat-square&labelColor=161B22" alt="Focus" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-EA580C?style=flat-square&labelColor=161B22" alt="Status" />
   </p>
 
   <p align="center">
